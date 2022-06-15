@@ -37,7 +37,7 @@ public class EnhancedCode1 {
 				grade = 'F';
 			}
 			
-			System.out.println("You are a "+grade+" studetn");
+			System.out.println("You are a "+grade+" student");
 			/*if you are A or B student --> you are doing great
 			 * otherwise ----> please try to study more
 			 */

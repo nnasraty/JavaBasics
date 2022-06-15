@@ -15,7 +15,7 @@ public class LoopWithScanner {
 		
 		do {
 			System.out.println("Did you get a job");
-			job = scan.nextLine();
+			job = scan.next();
 		}while (!job.equalsIgnoreCase("yes"));
 		
 		

@@ -37,7 +37,7 @@ public class NestedLoop {
 			System.out.println("Hello");
 			
 			for(int y=1; y>=2; y++) {		// inner loop
-				System.out.println("Bye");// falls condition doestn enter inner loop
+				System.out.println("Bye");// falls condition doest'n enter inner loop
 			}
 		}
 		

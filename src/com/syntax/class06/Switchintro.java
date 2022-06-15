@@ -7,28 +7,28 @@ public class Switchintro {
 		
 		// if is condition based statement
 		
-		int day = 4;  
+        int day = 7;  
 		String name;
-		
-		if (day==1) {
-			name =("Monday");}
-		else if (day==2) {
-			name =("Tuesday");}
-		else if(day==3) {
-			name =("Wednesday");}
-		else if(day==4) {
-			name =("Thursday");}
-		else if(day==5) {
-			name =("Friday");}
-		else if(day==6) {
-			name =("Saturday");}
-		else if(day==7) {
-			name =("Sunday");}
-		else {
-			name = ("invalid");
-		}
-		
-		System.out.println(name);		
+//		
+//		if (day==1) {
+//			name =("Monday");}
+//		else if (day==2) {
+//			name =("Tuesday");}
+//		else if(day==3) {
+//			name =("Wednesday");}
+//		else if(day==4) {
+//			name =("Thursday");}
+//		else if(day==5) {
+//			name =("Friday");}
+//		else if(day==6) {
+//			name =("Saturday");}
+//		else if(day==7) {
+//			name =("Sunday");}
+//		else {
+//			name = ("invalid");
+//		}
+//		
+//		System.out.println(name);		
 		System.out.println("==================================");
 		//switch case is value based statement
 		
